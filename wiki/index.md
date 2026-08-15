@@ -1,6 +1,6 @@
 # Wiki Index
 
-> **Last ingested:** _not yet run_
+> **Last ingested:** 2026-08-15
 >
 > This wiki is AI-generated from source docs in `docs/`. Do not edit pages here directly — update the source doc and re-run the ingest rule.
 
@@ -21,7 +21,7 @@
 ### Project Management
 | Page | Purpose |
 |------|---------|
-| [project-management/overview.md](project-management/overview.md) | Milestones, status, and team structure |
+| [project-management/overview.md](project-management/overview.md) | VWO PRD — objectives, requirements, KPIs, risks, roadmap |
 
 ### Cross-cutting
 | Page | Purpose |
